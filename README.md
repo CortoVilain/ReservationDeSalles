@@ -4,7 +4,7 @@ Ce répertoire Git contient un projet Arduino permettant de simuler la réservat
 
 Pour cela, un projet Arduino est connecté à une API connectée à une base de données NoSQL enregistrant les réservations.
 
-L'API est disponible à l'adresse suivante : [IOT-API-ReservationDeSalles](https://gitlab.com/CortoVILAINEPSI/iot-api-reservationdesalles)!
+L'API est disponible à l'adresse suivante : [IOT-API-ReservationDeSalles](https://gitlab.com/CortoVILAINEPSI/iot-api-reservationdesalles)
 
 Le but de l'application est de permettre à des étudiants de réserver une salle facilement lorsqu'ils sont devant grâce à un écran et quelques boutons. Ils ont alors la possibilité de savoir si la salle est disponible à tel ou tel horaire et dans le cas où elle n'est pas réservée, la réserver.
 
