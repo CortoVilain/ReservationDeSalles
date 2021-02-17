@@ -21,6 +21,6 @@ Les boutons permettent de naviguer dans l'application.
 
 # Langages de programmation
 
-Le projet Arduino est développé en C.
+Le projet Arduino est développé en C++.
 
 L'API est développée en Javascript (node.js) via le framework express.js.
