@@ -8,6 +8,8 @@ L'API est disponible à l'adresse suivante : [IOT-API-ReservationDeSalles](https
 
 Le but de l'application est de permettre à des étudiants de réserver une salle facilement lorsqu'ils sont devant grâce à un écran et quelques boutons. Ils ont alors la possibilité de savoir si la salle est disponible à tel ou tel horaire et dans le cas où elle n'est pas réservée, la réserver.
 
+Une vidéo de présentation et de démonstration est disponible à l'adresse suivante : [Vidéo de démonstration](https://1drv.ms/v/s!AkptWhpP6pvZgdkwfxf7DBEm8aROSA?e=a1v2yz)
+
 Le système de l'Arduino est simple, il contient les éléments suivants :
 
 - 2 leds
