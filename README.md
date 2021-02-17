@@ -1,2 +1,1 @@
-# ReservationDeSalles
-Projet d'IOT
+# IOT : Projet de réservation de salles
